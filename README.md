@@ -1,7 +1,4 @@
 # rock-paper-scissors-CNN
-A Convolutional Neural Network (CNN) to classify Rock-Paper-Scissors images using TensorFlow and Keras.
-
-# Rock-Paper-Scissors CNN Classifier
 
 A Convolutional Network (CNN) built with TensorFlow and Keras to classify Rock-Paper-Scissors images. This project demonstrates end-to-end image processing, from Exploratory Data Analysis (EDA) to model training.
 
